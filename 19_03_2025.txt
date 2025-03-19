@@ -1,0 +1,13 @@
+Estratégico -> Conselho
+
+Gerencial -> Diretores e Gerentes
+
+Operacional -> Pessoas
+
+------------------------------------
+
+Pesquisa de Mercado
+Indicadores -> KPIs e KPRs (Dashboard)
+Churn
+Taxa de contatos
+Reclamações
