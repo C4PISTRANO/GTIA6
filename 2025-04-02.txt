@@ -1,4 +1,4 @@
-Lean Six Sigma
+Lean 6 (Six) Sigma
 Implementar controles estatísticos
 
 Yellow Belt
@@ -6,3 +6,16 @@ Green Belt
 Black Belt
 
 Olhar os controles de processos
+-----------------------------------------
+PMBOK - Gestão Projetos
+914 pontos)
+
+Planejamento
+Seleção de Equipe
+Seleção Fornecedor
+Gestão de recursos do projeto - Análise de perfis dos colaboradores
+Entregas - Lições aprendidas
+
+Metodologias Ágeis - Scrum
+                   - XP
+                   - Canvas (cards)
