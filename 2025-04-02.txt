@@ -46,3 +46,8 @@ BI -  [BSS]
 Auditoria
 Auditar Sistemas
 BSC (KPIs/KPRs)
+
+-----------------------------------------------------------
+Apresentação:
+
+Grupo de 5 Pessoas para apresentar cada tema.
