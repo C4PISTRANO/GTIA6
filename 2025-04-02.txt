@@ -29,4 +29,15 @@ Gerar indicadores
 *Existe certificação (versão 4)
 
 ---------------------------------------------------------
+ISO 27000 - Segurança em TI
+ISO 27001 - Segurança dos Dados dos clientes e da empresa
+*LGPD*
 
+----------------------------------------------------------
+CMMI - Qualidade de Software
+----------------------------------------------------------
+OSS x BSS  (oraganização x Negócios)
+
+ERP- ligado a Organização (Protheus, SAP) [OSS]
+CRM - [BSS]
+BI -  [BSS]
