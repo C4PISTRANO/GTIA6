@@ -18,4 +18,4 @@ Entregas - Lições aprendidas
 
 Metodologias Ágeis - Scrum
                    - XP
-                   - Canvas (cards)
+                   - Canvas (cards) = Kanban
