@@ -41,3 +41,8 @@ OSS x BSS  (oraganização x Negócios)
 ERP- ligado a Organização (Protheus, SAP) [OSS]
 CRM - [BSS]
 BI -  [BSS]
+
+-----------------------------------------------------------
+Auditoria
+Auditar Sistemas
+BSC (KPIs/KPRs)
