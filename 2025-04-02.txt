@@ -19,3 +19,14 @@ Entregas - Lições aprendidas
 Metodologias Ágeis - Scrum
                    - XP
                    - Canvas (cards) = Kanban
+----------------------------------------------------------
+ITIL
+Manutenção do código
+Change request
+Operação de TI
+Gerar indicadores
+
+*Existe certificação (versão 4)
+
+---------------------------------------------------------
+
