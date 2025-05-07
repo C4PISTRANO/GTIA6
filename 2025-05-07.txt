@@ -22,6 +22,10 @@ ISO 27001
 SGSI - Sistema de Gestão de Segurança da Informação
 
 Qualidade:
-CMMI
-N1 N2 N3 N4 N5
+CMMI x MPS-BR
+N1 N2 N3 N4 N5 x FG E D C AB
 (maturidade)
+
+Balance score card
+
+
