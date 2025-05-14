@@ -1,2 +1,2 @@
 # GTIA6
-Governança de Tecnologia da Informação
+Gestão e Governança da Tecnologia da Informação
